@@ -5,16 +5,22 @@ Git básico — repositório, commit e histórico.
 
 
 ## O que aprendi
-## eu aprendi a utilizr o git log, 
+## eu aprendi a utilizr o git log. 
 
 Explique com suas próprias palavras o que você aprendeu durante a aula.
 
 ## Conceitos principais
 
-- Conceito 1:
-- Conceito 2:
-- Conceito 3:
-- Conceito 4:
+- Conceito 1:Versionamento: é um processo que registra mudanças em
+um ou mais arquivos ao longo do tempo.
+- Conceito 2:Snapshot (instantâneo): o Git não salva apenas as
+diferenças; ele tira uma “foto” de como todos os arquivos
+estão naquele momento.
+- Conceito 3:Diretório de trabalho (working directory): área em que você edita,
+cria e apaga arquivos. É o que você vê na pasta.
+- Conceito 4:Área de preparação (staging area): área intermediária em que você
+escolhe quais mudanças farão parte do próximo snapshot.
+
 
 ## Comandos utilizados
 
